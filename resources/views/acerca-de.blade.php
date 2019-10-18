@@ -11,7 +11,15 @@
 		<span class="tit2 t-center">
 				UUUUUM!
 		</span>
+		
 
+
+
+
+
+
+
+		
 		<h3 class="tit3 t-center m-b-35 m-t-5">
 			Our Story
 		</h3>
