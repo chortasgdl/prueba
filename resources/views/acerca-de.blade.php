@@ -7,8 +7,6 @@
 			Acerca de Nosotros
 		</h2>
 	</section>
-
-
 	<!-- Our Story -->
 	<section class="bg2-pattern p-t-116 p-b-110 t-center p-l-15 p-r-15">
 		<span class="tit2 t-center">
